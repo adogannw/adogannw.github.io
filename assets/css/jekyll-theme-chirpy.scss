@@ -1,0 +1,57 @@
+/* --- pastel tonlar için eklemeler: sadece override --- */
+
+/* Açık mod */
+@media (prefers-color-scheme: light) {
+  .sidebar {
+    background-color: #f6f7fb;         /* çok açık lavanta-gri */
+    border-right: 1px solid #e6e8f0;
+  }
+
+  .sidebar .site-title,
+  .sidebar .site-subtitle {
+    color: #40506a;
+  }
+
+  .sidebar a,
+  .sidebar .nav-item .nav-link {
+    color: #5b6b8a;
+  }
+
+  .sidebar .nav-item .nav-link:hover,
+  .sidebar .nav-item .nav-link.active {
+    background-color: #eaeef8;         /* pastel vurgu */
+    color: #34425c;
+    border-radius: 8px;
+  }
+}
+
+/* Koyu mod */
+@media (prefers-color-scheme: dark) {
+  .sidebar {
+    background-color: #242a36;         /* koyu lacivertimsi gri */
+    border-right: 1px solid #2f3644;
+  }
+
+  .sidebar .site-title,
+  .sidebar .site-subtitle {
+    color: #cfd7ea;
+  }
+
+  .sidebar a,
+  .sidebar .nav-item .nav-link {
+    color: #a9b5cf;
+  }
+
+  .sidebar .nav-item .nav-link:hover,
+  .sidebar .nav-item .nav-link.active {
+    background-color: #2d3545;
+    color: #e7ecf7;
+    border-radius: 8px;
+  }
+}
+
+/* İçerik alanına hafif pastel dokunuşlar */
+.post-content a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
