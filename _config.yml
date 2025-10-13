@@ -29,7 +29,10 @@ social:
   email: "adogannw@gmail.com"
   links:
     - https://github.com/adogannw
+    - https://instagram.com/adogannw
+    - https://facebook.com/adogannw
     - mailto:adogannw@gmail.com
+    - /feed.xml
 
 # Tema modu ve içerik davranışı
 theme_mode: auto       # light ya da dark da yazabilirsin
