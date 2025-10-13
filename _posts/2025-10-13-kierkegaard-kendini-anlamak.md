@@ -203,3 +203,6 @@ Bu sonuç cümleleri belki tek bir oturuşta anlaşılmaz; ne de olsa Kierkegaar
 [\[48\]](https://dergipark.org.tr/tr/download/article-file/325122#:~:text=DergiPark%20dergipark,Selfin%20kendine%20y%C3%B6nelik%20ilgisi) \[PDF\] Kierkegaard'da 'Estetik'in Yeri ve Sınırlarıa - DergiPark
 
 <https://dergipark.org.tr/tr/download/article-file/325122>
+
+
+Bu metin Yapay Zeka Derin Araştırma Modu tarafından üretilmiştir.
