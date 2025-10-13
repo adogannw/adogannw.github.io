@@ -1,9 +1,16 @@
 ---
-# the default layout is 'page'
 title: Hakkımda
-icon: fas fa-info-circle
+icon: fas fa-user
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Merhaba, ben **Ahmet Doğan**.  
+Norveç’te yaşıyorum ve veri bilimi, yazılım mimarisi, bilimsel görselleştirme, fotoğrafçılık ve felsefeyle ilgileniyorum.  
+
+Bu blogda hem teknik projelerimden hem de düşünsel çalışmalarımdan notlar paylaşıyorum.  
+Yazılarım genellikle şu başlıklar etrafında döner:
+---
+
+📫 **İletişim**
+- GitHub: [github.com/adogannw](https://github.com/adogannw)
+- E-posta: adogannw@gmail.com  
