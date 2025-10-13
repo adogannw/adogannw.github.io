@@ -15,7 +15,7 @@ baseurl: ""   # ana alan, alt klasör kullanmıyorsan boş kalsın
 # Yazar bilgileri, sol panelde ve yazı meta bilgisinde görünür
 author:
   name: "Ahmet Doğan"
-  avatar: /assets/img/profile.png   # bu görseli ekleyeceksin
+  avatar: /assets/images/profile.jpg
   bio: "Araştırmacı, programcı ve düşünce meraklısı"
   location: "Drammen, Norveç"
   email: "adogannw@gmail.com"
