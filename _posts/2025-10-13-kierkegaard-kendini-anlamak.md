@@ -3,7 +3,7 @@ title: "Kierkegaard’da Kendini Anlamak ve Bilmek"
 date: 2025-10-13 12:00:00 +0200
 categories: [Yapay Zekadan Makaleler]
 tags: [kierkegaard, benlik, varolus, kaygi, umutsuzluk]
-description: "Kierkegaard’ın benlik, kaygı ve öznel hakikat kavramları üzerine bir okuma."
+description: "Kendini bilmek, filozofların en eski meselelerinden biridir. Antik çağdan bu yana “kendini tanı” öğüdü verilirken, modern birey kalabalıklar içinde kendini yitirme tehlikesiyle karşı karşıyadır. Søren Kierkegaard özellikle, insanın kendi olma cesaretini kaybettiğini, çoğunluğa benzemeyi daha “güvenli” bulduğunu söyler. Günümüzü andırırcasına, “Çevresinde büyük kalabalıkların toplandığını görmekle… artık kendine inanmaya cesaret edemez ve kendi olmayı çok güç bir olay olarak görür; diğerlerine benzemeyi, bir taklitçi yığın içinde kaybolan bir numara olmayı daha basit ve güvenli bulur” diyerek çağının insanını betimler[1]. Gerçekten de kendimiz olmaktan kaçınmak, başkalarının değerlerine sığınmak kolaydır; oysa Kierkegaard’a göre “insan ancak kendini bir birey olarak var etmekle anlam kazanır”[2]. Peki Kierkegaard, “kendi olma” görevini nasıl açıklıyor? Benlik kavramını, kaygı ve umutsuzluk deneyimlerini, hayatın estetik-etik-dinî aşamalarını ve nihayet iman sıçrayışı ile öznel hakikat anlayışını bir araya getirerek, “kendini bilme” sürecini benzersiz bir şekilde çözümlemiştir. Bu incelemede Kierkegaard’ın kilit kavramları ışığında kendimizi anlamanın neden zor ama vazgeçilmez olduğunu keşfedeceğiz."
 image:  # istersen kapak görseli yolu koy: /assets/img/kierkegaard.jpg
 ---
 
