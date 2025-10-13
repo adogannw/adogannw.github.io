@@ -1,0 +1,13 @@
+tabs:
+  home: "Anasayfa"
+  categories: "Kategoriler"
+  tags: "Etiketler"
+  archives: "Arşiv"
+  about: "Hakkımda"
+sidebar:
+  menu:
+    home: "Anasayfa"
+    categories: "Kategoriler"
+    tags: "Etiketler"
+    archives: "Arşiv"
+    about: "Hakkımda"
