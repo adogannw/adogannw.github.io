@@ -1,57 +1,93 @@
-/* --- pastel tonlar için eklemeler: sadece override --- */
+---
+---
+
+@import "jekyll-theme-chirpy";
+
+/* ---------------------------------------------
+   ChatGPT benzeri pastel dokunuşlar
+   - Yumuşak arka planlar
+   - Akışkan geçişler
+   - Hafif yeşilimsi vurgular
+---------------------------------------------- */
 
 /* Açık mod */
 @media (prefers-color-scheme: light) {
   .sidebar {
-    background-color: #f6f7fb;         /* çok açık lavanta-gri */
-    border-right: 1px solid #e6e8f0;
+    background-color: #f5f7fa;              /* nötr açık gri-mavi */
+    border-right: 1px solid #e2e6ed;
+    box-shadow: 2px 0 6px rgba(0, 0, 0, 0.04);
+    transition: background-color 0.3s ease;
   }
 
   .sidebar .site-title,
   .sidebar .site-subtitle {
-    color: #40506a;
+    color: #374151;                         /* koyu nötr gri */
   }
 
   .sidebar a,
   .sidebar .nav-item .nav-link {
-    color: #5b6b8a;
+    color: #54677a;                         /* gri-mavi */
+    transition: color 0.2s ease, background-color 0.2s ease;
   }
 
   .sidebar .nav-item .nav-link:hover,
   .sidebar .nav-item .nav-link.active {
-    background-color: #eaeef8;         /* pastel vurgu */
-    color: #34425c;
-    border-radius: 8px;
+    background-color: #e3f2ef;              /* açık mint yeşili */
+    color: #0f5132;                         /* koyu zeytin yeşili */
+    border-radius: 10px;
   }
 }
 
 /* Koyu mod */
 @media (prefers-color-scheme: dark) {
   .sidebar {
-    background-color: #242a36;         /* koyu lacivertimsi gri */
-    border-right: 1px solid #2f3644;
+    background-color: #1f2430;              /* ChatGPT koyu tonu */
+    border-right: 1px solid #2b3242;
+    box-shadow: 2px 0 6px rgba(0, 0, 0, 0.25);
+    transition: background-color 0.3s ease;
   }
 
   .sidebar .site-title,
   .sidebar .site-subtitle {
-    color: #cfd7ea;
+    color: #d6e3e0;
   }
 
   .sidebar a,
   .sidebar .nav-item .nav-link {
-    color: #a9b5cf;
+    color: #a7b8b2;
+    transition: color 0.2s ease, background-color 0.2s ease;
   }
 
   .sidebar .nav-item .nav-link:hover,
   .sidebar .nav-item .nav-link.active {
-    background-color: #2d3545;
-    color: #e7ecf7;
-    border-radius: 8px;
+    background-color: #2c3a37;              /* koyu yeşilimsi vurgu */
+    color: #e9f6f3;                         /* nane beyazı */
+    border-radius: 10px;
   }
 }
 
-/* İçerik alanına hafif pastel dokunuşlar */
+/* İçerik alanı – bağlantılar ve kodlar */
 .post-content a {
-  text-decoration: underline;
-  text-underline-offset: 2px;
+  color: #15847a;                            /* ChatGPT yeşili */
+  text-decoration: none;
+  border-bottom: 1px solid rgba(21,132,122,0.3);
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.post-content a:hover {
+  color: #0d5e56;
+  border-color: rgba(13,94,86,0.5);
+}
+
+/* Kod blokları: yumuşak arka plan */
+pre, code {
+  background-color: #f3f6f5;
+  border-radius: 6px;
+}
+
+/* Koyu modda kod alanı */
+@media (prefers-color-scheme: dark) {
+  pre, code {
+    background-color: #2a3230;
+  }
 }
