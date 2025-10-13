@@ -8,7 +8,6 @@ Merhaba, ben **Ahmet Doğan**.
 Norveç’te yaşıyorum ve veri bilimi, yazılım mimarisi, bilimsel görselleştirme, fotoğrafçılık ve felsefeyle ilgileniyorum.  
 
 Bu blogda hem teknik projelerimden hem de düşünsel çalışmalarımdan notlar paylaşıyorum.  
-Yazılarım genellikle şu başlıklar etrafında döner:
 ---
 
 📫 **İletişim**
